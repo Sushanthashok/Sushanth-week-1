@@ -33,7 +33,8 @@ Smart energy management for a sustainable future.
 
 Dataset Name: Solar Panel Dataset
 
- **Dataset Name:** [**Solar Panel Dataset**](https://www.kaggle.com/datasets/dk79944/solar-plate-image)  
+ **Dataset Name:** [**Solar Panel Dataset**](https://www.kaggle.com/datasets/dk79944/solar-plate-image)
+ 
  **Source:** **Kaggle (via kagglehub)**  
 
 
