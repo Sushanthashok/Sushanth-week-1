@@ -1,4 +1,7 @@
 🌞 Solar Panel Defect Detection using CNN (Sustainability Theme)
+
+
+
 🧠 Project Problem Statement
 
 As the world transitions toward renewable energy, solar power stands as one of the most promising sources for a sustainable and low-carbon future. However, the efficiency of solar panels declines when they develop defects such as bird drops, dust accumulation, electrical damage, physical cracks, or snow coverage.
